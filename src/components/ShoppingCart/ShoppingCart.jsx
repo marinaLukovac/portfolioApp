@@ -9,7 +9,7 @@ const ShoppingCart = ({ shoppingCart, setShoppingCart }) => {
       {shoppingCart.length !== 0 ? (
         <>
           <h3 className="heading">
-            <span>Delete</span>
+            <span></span>
             <span>Book Title</span>
             <span>Quantity</span>
             <span>Price</span>
@@ -23,6 +23,7 @@ const ShoppingCart = ({ shoppingCart, setShoppingCart }) => {
             />
           ))}
           <h3 className="total">
+            <span></span>
             <span>Total:</span>
             <span>
               $

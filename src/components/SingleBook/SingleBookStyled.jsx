@@ -6,7 +6,7 @@ const SingleBookStyled = styled.article`
   background-color: #f9fafd;
   box-shadow: 0 3px 5px 0.5px #e5eaf6;
   padding: 7vh 0;
-  margin: 13vh 20vw;
+  margin: 5vh 20vw;
   & div {
     display: flex;
     flex-direction: column;

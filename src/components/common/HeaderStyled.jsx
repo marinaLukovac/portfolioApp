@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const HeaderStyled = styled.header`
-  padding: 0 20vh;
+  padding: 1vh 25vh;
   display: flex;
   justify-content: space-between;
   background-color: #f9fafd;
@@ -41,11 +41,28 @@ export const HeaderStyled = styled.header`
     box-shadow: 1px 2px 5px -1px #babdcd;
   }
   & img {
-    width: 100%;
+    width: 80%;
   }
 `;
 
 export const HomeStyled = styled.div`
+  & a {
+    position: absolute;
+    top: 40vh;
+    left: 25vh;
+    display: inline-block;
+    padding: 1.5vh 3vh;
+    background-color: #ffdb33;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1.8rem;
+    color: #4c3f00;
+  }
+  & a:hover {
+    color: #7f4261;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 5px 0.3px #ffdb33;
+  }
   width: 100vw;
   & img {
     width: 100%;

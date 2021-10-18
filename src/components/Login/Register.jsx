@@ -11,7 +11,7 @@ const Register = ({ shoppingCart, setLoggedUser, setUser }) => {
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [passwordConfirm, setPasswordConfirm] = useState(' ');
+  const [passwordConfirm, setPasswordConfirm] = useState('*****************');
   const [errorArray, setErrorArray] = useState(['', '', '', '', '', '']);
   let history = useHistory();
 

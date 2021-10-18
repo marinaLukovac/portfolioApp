@@ -5,6 +5,7 @@ import Book from './Book/Book';
 import BookForm from './BookForm/BookForm';
 import Filter from './Filter/Filter';
 import { StoreCard, PageNavigation } from './StoreCard';
+import { StyledStore } from './StyledStore';
 
 const Store = ({
   setShoppingCart,
@@ -35,7 +36,7 @@ const Store = ({
   }, [filtered]);
 
   return (
-    <>
+    <StyledStore>
       {loggedUser === 'admin' && (
         <BookForm
           setEditedBook={setEditedBook}
@@ -76,7 +77,7 @@ const Store = ({
           />
         ))}
       </StoreCard>
-    </>
+    </StyledStore>
   );
 };
 

@@ -4,7 +4,7 @@ const StyledForm = styled.form`
   padding: 2.5rem;
   display: flex;
   flex-direction: column;
-  margin: 5vh auto;
+  margin: 5vh 30vh;
   background-color: #fdfcfb;
   box-shadow: 0 3px 4px 0.5px #f5f1e9;
   & input {

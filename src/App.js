@@ -3,6 +3,7 @@ import { BrowserRouter } from 'react-router-dom';
 import Header from './components/common/Header';
 import Main from './components/common/Main';
 import { useState } from 'react';
+import Footer from './components/common/Footer';
 
 function App() {
   const [shoppingCart, setShoppingCart] = useState([]);
@@ -25,6 +26,7 @@ function App() {
         setUser={setUser}
         user={user}
       />
+      <Footer />
     </BrowserRouter>
   );
 }
