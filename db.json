@@ -1,0 +1,1173 @@
+{
+  "books": [
+    {
+      "title": "Java Notes for Professionals",
+      "subtitle": "",
+      "id": "1001630936399",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001630936399.png",
+      "url": "https://itbook.store/books/1001630936399"
+    },
+    {
+      "title": "React JS Notes for Professionals",
+      "subtitle": "",
+      "id": "1001629286154",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001629286154.png",
+      "url": "https://itbook.store/books/1001629286154"
+    },
+    {
+      "title": "TypeScript Notes for Professionals",
+      "subtitle": "",
+      "id": "1001622115721",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001622115721.png",
+      "url": "https://itbook.store/books/1001622115721"
+    },
+    {
+      "title": "Python Notes for Professionals",
+      "subtitle": "",
+      "id": "1001621860589",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001621860589.png",
+      "url": "https://itbook.store/books/1001621860589"
+    },
+    {
+      "title": "Seeing Theory",
+      "subtitle": "A Visual Introduction to Probability and Statistics",
+      "id": "1001620981541",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001620981541.png",
+      "url": "https://itbook.store/books/1001620981541"
+    },
+    {
+      "title": "MySQL Notes for Professionals",
+      "subtitle": "",
+      "id": "1001620983366",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001620983366.png",
+      "url": "https://itbook.store/books/1001620983366"
+    },
+    {
+      "title": "The Vue.js Handbook",
+      "subtitle": "",
+      "id": "1001615902053",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001615902053.png",
+      "url": "https://itbook.store/books/1001615902053"
+    },
+    {
+      "title": "The Node.js Handbook",
+      "subtitle": "",
+      "id": "1001614599609",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001614599609.png",
+      "url": "https://itbook.store/books/1001614599609"
+    },
+    {
+      "title": "Azure Tips and Tricks",
+      "subtitle": "",
+      "id": "9781732704121",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/9781732704121.png",
+      "url": "https://itbook.store/books/9781732704121"
+    },
+    {
+      "title": "Learn Programming",
+      "subtitle": "Your Guided Tour Through the Programming Jungle",
+      "id": "9781722834920",
+      "price": "16.83",
+      "image": "https://itbook.store/img/books/9781722834920.png",
+      "url": "https://itbook.store/books/9781722834920"
+    },
+    {
+      "title": "Graph Databases For Beginners",
+      "subtitle": "The #1 Platform for Connected Data",
+      "id": "1001606307637",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001606307637.png",
+      "url": "https://itbook.store/books/1001606307637"
+    },
+    {
+      "title": "Elementary Algorithms",
+      "subtitle": "",
+      "id": "1001606307729",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001606307729.png",
+      "url": "https://itbook.store/books/1001606307729"
+    },
+    {
+      "title": "Windows PowerShell Networking Guide",
+      "subtitle": "",
+      "id": "1001606307964",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001606307964.png",
+      "url": "https://itbook.store/books/1001606307964"
+    },
+    {
+      "title": "Operating Systems: From 0 to 1",
+      "subtitle": "",
+      "id": "1001606140658",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001606140658.png",
+      "url": "https://itbook.store/books/1001606140658"
+    },
+    {
+      "title": "Java Web Scraping Handbook",
+      "subtitle": "Learn advanced Web Scraping techniques",
+      "id": "1001606140805",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001606140805.png",
+      "url": "https://itbook.store/books/1001606140805"
+    },
+    {
+      "title": "The Basics of User Experience Design",
+      "subtitle": "",
+      "id": "1001601301730",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001601301730.png",
+      "url": "https://itbook.store/books/1001601301730"
+    },
+    {
+      "title": "3D Game Development with LWJGL 3",
+      "subtitle": "Learn the main concepts involved in writing 3D games using the Lighweight Java Gaming Library",
+      "id": "1001601302020",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001601302020.png",
+      "url": "https://itbook.store/books/1001601302020"
+    },
+    {
+      "title": "Practical MongoDB",
+      "subtitle": "Architecting, Developing, and Administering MongoDB",
+      "id": "9781484206485",
+      "price": "41.57",
+      "image": "https://itbook.store/img/books/9781484206485.png",
+      "url": "https://itbook.store/books/9781484206485"
+    },
+    {
+      "title": "The Definitive Guide to MongoDB, 3rd Edition",
+      "subtitle": "A complete guide to dealing with Big Data using MongoDB",
+      "id": "9781484211830",
+      "price": "49.99",
+      "image": "https://itbook.store/img/books/9781484211830.png",
+      "url": "https://itbook.store/books/9781484211830"
+    },
+    {
+      "title": "MongoDB Performance Tuning",
+      "subtitle": "Optimizing MongoDB Databases and their Applications",
+      "id": "9781484268780",
+      "price": "37.24",
+      "image": "https://itbook.store/img/books/9781484268780.png",
+      "url": "https://itbook.store/books/9781484268780"
+    },
+    {
+      "title": "MongoDB in Action, 2nd Edition",
+      "subtitle": "Covers MongoDB version 3.0",
+      "id": "9781617291609",
+      "price": "19.99",
+      "image": "https://itbook.store/img/books/9781617291609.png",
+      "url": "https://itbook.store/books/9781617291609"
+    },
+    {
+      "title": "Pentaho Analytics for MongoDB",
+      "subtitle": "Combine Pentaho Analytics and MongoDB to create powerful analysis and reporting solutions",
+      "id": "9781782168355",
+      "price": "16.99",
+      "image": "https://itbook.store/img/books/9781782168355.png",
+      "url": "https://itbook.store/books/9781782168355"
+    },
+    {
+      "title": "Pentaho Analytics for MongoDB Cookbook",
+      "subtitle": "Over 50 recipes to learn how to use Pentaho Analytics and MongoDB to create powerful analysis and reporting solutions",
+      "id": "9781783553273",
+      "price": "35.99",
+      "image": "https://itbook.store/img/books/9781783553273.png",
+      "url": "https://itbook.store/books/9781783553273"
+    },
+    {
+      "title": "Web Development with MongoDB and NodeJS, 2nd Edition",
+      "subtitle": "Build an interactive and full-featured web application from scratch using Node.js and MongoDB",
+      "id": "9781785287527",
+      "price": "38.01",
+      "image": "https://itbook.store/img/books/9781785287527.png",
+      "url": "https://itbook.store/books/9781785287527"
+    },
+    {
+      "title": "MongoDB Cookbook, 2nd Edition",
+      "subtitle": "Harness the latest features of MongoDB 3 with this collection of 80 recipes - from managing cloud platforms to app development, this book is a vital resource",
+      "id": "9781785289989",
+      "price": "44.99",
+      "image": "https://itbook.store/img/books/9781785289989.png",
+      "url": "https://itbook.store/books/9781785289989"
+    },
+    {
+      "title": "The Little MongoDB Book",
+      "subtitle": "",
+      "id": "1001592208320",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001592208320.png",
+      "url": "https://itbook.store/books/1001592208320"
+    },
+    {
+      "title": "Learning MongoDB",
+      "subtitle": "",
+      "id": "1001629462276",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001629462276.png",
+      "url": "https://itbook.store/books/1001629462276"
+    },
+    {
+      "title": "The Art of Readable Code",
+      "subtitle": "Simple and Practical Techniques for Writing Better Code",
+      "id": "9780596802295",
+      "price": "27.99",
+      "image": "https://itbook.store/img/books/9780596802295.png",
+      "url": "https://itbook.store/books/9780596802295"
+    },
+    {
+      "title": "Visual Studio Code Distilled",
+      "subtitle": "Evolved Code Editing for Windows, macOS, and Linux",
+      "id": "9781484242230",
+      "price": "25.52",
+      "image": "https://itbook.store/img/books/9781484242230.png",
+      "url": "https://itbook.store/books/9781484242230"
+    },
+    {
+      "title": "Codeless Data Structures and Algorithms",
+      "subtitle": "Learn DSA Without Writing a Single Line of Code",
+      "id": "9781484257241",
+      "price": "26.71",
+      "image": "https://itbook.store/img/books/9781484257241.png",
+      "url": "https://itbook.store/books/9781484257241"
+    },
+    {
+      "title": "CodeIgniter Web Application Blueprints",
+      "subtitle": "Develop full-featured dynamic web applications using the powerful CodeIgniter MVC framework",
+      "id": "9781783287093",
+      "price": "26.99",
+      "image": "https://itbook.store/img/books/9781783287093.png",
+      "url": "https://itbook.store/books/9781783287093"
+    },
+    {
+      "title": "Clean Code in Python",
+      "subtitle": "Refactor your legacy code base",
+      "id": "9781788835831",
+      "price": "44.99",
+      "image": "https://itbook.store/img/books/9781788835831.png",
+      "url": "https://itbook.store/books/9781788835831"
+    },
+    {
+      "title": "CodeIgniter for Rapid PHP Application Development",
+      "subtitle": "Improve your PHP coding productivity with the free compact open-source MVC CodeIgniter framework!",
+      "id": "9781847191748",
+      "price": "20.99",
+      "image": "https://itbook.store/img/books/9781847191748.png",
+      "url": "https://itbook.store/books/9781847191748"
+    },
+    {
+      "title": "The Coder's Apprentice",
+      "subtitle": "Learning Programming with Python 3",
+      "id": "1001606308037",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001606308037.png",
+      "url": "https://itbook.store/books/1001606308037"
+    },
+    {
+      "title": "How To Code in Go",
+      "subtitle": "",
+      "id": "1001614175813",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001614175813.png",
+      "url": "https://itbook.store/books/1001614175813"
+    },
+    {
+      "title": "How To Code in Node.js",
+      "subtitle": "",
+      "id": "1001614175970",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001614175970.png",
+      "url": "https://itbook.store/books/1001614175970"
+    },
+    {
+      "title": "Clean Code",
+      "subtitle": "A Handbook of Agile Software Craftsmanship",
+      "id": "9780132350884",
+      "price": "30.40",
+      "image": "https://itbook.store/img/books/9780132350884.png",
+      "url": "https://itbook.store/books/9780132350884"
+    },
+    {
+      "title": "Coffee Break Python Slicing",
+      "subtitle": "24 Workouts to Master Slicing in Python, Once and for All",
+      "id": "1001605784161",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001605784161.png",
+      "url": "https://itbook.store/books/1001605784161"
+    },
+    {
+      "title": "Learn More Python 3 the Hard Way",
+      "subtitle": "The Next Step for New Python Programmers",
+      "id": "9780134123486",
+      "price": "22.33",
+      "image": "https://itbook.store/img/books/9780134123486.png",
+      "url": "https://itbook.store/books/9780134123486"
+    },
+    {
+      "title": "Programming in Python 3, 2nd Edition",
+      "subtitle": "A Complete Introduction to the Python Language",
+      "id": "9780321680563",
+      "price": "33.54",
+      "image": "https://itbook.store/img/books/9780321680563.png",
+      "url": "https://itbook.store/books/9780321680563"
+    },
+    {
+      "title": "Beginning Python",
+      "subtitle": "Using Python 2.6 and Python 3.1",
+      "id": "9780470414637",
+      "price": "7.99",
+      "image": "https://itbook.store/img/books/9780470414637.png",
+      "url": "https://itbook.store/books/9780470414637"
+    },
+    {
+      "title": "Python Cookbook, 2nd Edition",
+      "subtitle": "Recipes from the Python Community",
+      "id": "9780596007973",
+      "price": "0.99",
+      "image": "https://itbook.store/img/books/9780596007973.png",
+      "url": "https://itbook.store/books/9780596007973"
+    },
+    {
+      "title": "Python Pocket Reference, 4th Edition",
+      "subtitle": "Python in Your Pocket",
+      "id": "9780596158088",
+      "price": "4.21",
+      "image": "https://itbook.store/img/books/9780596158088.png",
+      "url": "https://itbook.store/books/9780596158088"
+    },
+    {
+      "title": "Python for Unix and Linux System Administration",
+      "subtitle": "Efficient Problem Solving with Python",
+      "id": "9780596515829",
+      "price": "39.99",
+      "image": "https://itbook.store/img/books/9780596515829.png",
+      "url": "https://itbook.store/books/9780596515829"
+    },
+    {
+      "title": "Mastering Python for Bioinformatics",
+      "subtitle": "How to Write Flexible, Documented, Tested Python Code for Research Computing",
+      "id": "9781098100889",
+      "price": "64.90",
+      "image": "https://itbook.store/img/books/9781098100889.png",
+      "url": "https://itbook.store/books/9781098100889"
+    },
+    {
+      "title": "Foundations of Python Network Programming, 2nd Edition",
+      "subtitle": "The comprehensive guide to building network applications with Python",
+      "id": "9781430230038",
+      "price": "39.99",
+      "image": "https://itbook.store/img/books/9781430230038.png",
+      "url": "https://itbook.store/books/9781430230038"
+    },
+    {
+      "title": "Python Algorithms",
+      "subtitle": "Mastering Basic Algorithms in the Python Language",
+      "id": "9781430232377",
+      "price": "18.00",
+      "image": "https://itbook.store/img/books/9781430232377.png",
+      "url": "https://itbook.store/books/9781430232377"
+    },
+    {
+      "title": "Using Node.js for UI Testing",
+      "subtitle": "Learn how to easily automate testing of your web apps using Node.js, Zombie.js, and Mocha",
+      "id": "9781782160526",
+      "price": "14.99",
+      "image": "https://itbook.store/img/books/9781782160526.png",
+      "url": "https://itbook.store/books/9781782160526"
+    },
+    {
+      "title": "Node Cookbook, 2nd Edition",
+      "subtitle": "Over 50 recipes to master the art of asynchronous server-side JavaScript using Node.js, with coverage of Express 4 and Socket.IO frameworks and the new Streams API",
+      "id": "9781783280438",
+      "price": "29.99",
+      "image": "https://itbook.store/img/books/9781783280438.png",
+      "url": "https://itbook.store/books/9781783280438"
+    },
+    {
+      "title": "Node.js Design Patterns",
+      "subtitle": "Get the best out of Node.js by mastering a series of patterns and techniques to create modular, scalable, and efficient applications",
+      "id": "9781783287314",
+      "price": "30.46",
+      "image": "https://itbook.store/img/books/9781783287314.png",
+      "url": "https://itbook.store/books/9781783287314"
+    },
+    {
+      "title": "Deploying Node.js",
+      "subtitle": "Learn how to build, test, deploy, monitor, and maintain your Node.js applications at scale",
+      "id": "9781783981403",
+      "price": "44.99",
+      "image": "https://itbook.store/img/books/9781783981403.png",
+      "url": "https://itbook.store/books/9781783981403"
+    },
+    {
+      "title": "RESTful Web API Design with Node.js",
+      "subtitle": "Design and implement comprehensive RESTful solutions in Node.js",
+      "id": "9781783985869",
+      "price": "23.99",
+      "image": "https://itbook.store/img/books/9781783985869.png",
+      "url": "https://itbook.store/books/9781783985869"
+    },
+    {
+      "title": "Node.js By Example",
+      "subtitle": "Learn to use Node.js by creating a fully functional social network",
+      "id": "9781784395711",
+      "price": "42.76",
+      "image": "https://itbook.store/img/books/9781784395711.png",
+      "url": "https://itbook.store/books/9781784395711"
+    },
+    {
+      "title": "Learning Node.js for Mobile Application Development",
+      "subtitle": "Make use of Node.js to learn the development of a simple yet scalable cross-platform mobile application",
+      "id": "9781785280498",
+      "price": "35.99",
+      "image": "https://itbook.store/img/books/9781785280498.png",
+      "url": "https://itbook.store/books/9781785280498"
+    },
+    {
+      "title": "Learn Node.js by Building 6 Projects",
+      "subtitle": "Build six practical and instructive Node.js projects",
+      "id": "9781788293631",
+      "price": "26.92",
+      "image": "https://itbook.store/img/books/9781788293631.png",
+      "url": "https://itbook.store/books/9781788293631"
+    },
+    {
+      "title": "Regular Expression Pocket Reference, 2nd Edition",
+      "subtitle": "Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET",
+      "id": "9780596514273",
+      "price": "11.99",
+      "image": "https://itbook.store/img/books/9780596514273.png",
+      "url": "https://itbook.store/books/9780596514273"
+    },
+    {
+      "title": "Introducing Regular Expressions",
+      "subtitle": "Unraveling regular expressions, step-by-step",
+      "id": "9781449392680",
+      "price": "29.99",
+      "image": "https://itbook.store/img/books/9781449392680.png",
+      "url": "https://itbook.store/books/9781449392680"
+    },
+    {
+      "title": "Pro Express.js",
+      "subtitle": "Master Express.js: The Node.js Framework For Your Web Development",
+      "id": "9781484200384",
+      "price": "49.99",
+      "image": "https://itbook.store/img/books/9781484200384.png",
+      "url": "https://itbook.store/books/9781484200384"
+    },
+    {
+      "title": "JavaScript Regular Expressions",
+      "subtitle": "Leverage the power of regular expressions to create an engaging user experience",
+      "id": "9781783282258",
+      "price": "27.99",
+      "image": "https://itbook.store/img/books/9781783282258.png",
+      "url": "https://itbook.store/books/9781783282258"
+    },
+    {
+      "title": "Mastering Python Regular Expressions",
+      "subtitle": "Leverage regular expressions in Python even for the most complex features",
+      "id": "9781783283156",
+      "price": "14.99",
+      "image": "https://itbook.store/img/books/9781783283156.png",
+      "url": "https://itbook.store/books/9781783283156"
+    },
+    {
+      "title": "Mastering Web Application Development with Express",
+      "subtitle": "A comprehensive guide to developing production-ready web applications with Express",
+      "id": "9781783981083",
+      "price": "29.99",
+      "image": "https://itbook.store/img/books/9781783981083.png",
+      "url": "https://itbook.store/books/9781783981083"
+    },
+    {
+      "title": "Express.js Blueprints",
+      "subtitle": "Learn to use Express.js pragmatically by creating five fun and robust real-world APIs, with a bonus chapter on Koa.js",
+      "id": "9781783983025",
+      "price": "23.99",
+      "image": "https://itbook.store/img/books/9781783983025.png",
+      "url": "https://itbook.store/books/9781783983025"
+    },
+    {
+      "title": "Express Web Application Development",
+      "subtitle": "Learn how to develop web applications with the Express framework from scratch",
+      "id": "9781849696548",
+      "price": "6.49",
+      "image": "https://itbook.store/img/books/9781849696548.png",
+      "url": "https://itbook.store/books/9781849696548"
+    },
+    {
+      "title": "Learning Regular Expressions",
+      "subtitle": "",
+      "id": "1001614176084",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001614176084.png",
+      "url": "https://itbook.store/books/1001614176084"
+    },
+    {
+      "title": "Learning Regular Expressions",
+      "subtitle": "",
+      "id": "9780134757063",
+      "price": "29.14",
+      "image": "https://itbook.store/img/books/9780134757063.png",
+      "url": "https://itbook.store/books/9780134757063"
+    },
+    {
+      "title": "Plug-In PHP: 100 Power Solutions",
+      "subtitle": "Simple Solutions to Practical PHP Problems",
+      "id": "9780071666596",
+      "price": "4.98",
+      "image": "https://itbook.store/img/books/9780071666596.png",
+      "url": "https://itbook.store/books/9780071666596"
+    },
+    {
+      "title": "PHP: The Good Parts",
+      "subtitle": "Delivering the Best of PHP",
+      "id": "9780596804374",
+      "price": "10.00",
+      "image": "https://itbook.store/img/books/9780596804374.png",
+      "url": "https://itbook.store/books/9780596804374"
+    },
+    {
+      "title": "The PHP Anthology, Volume 2",
+      "subtitle": "Object Oriented PHP Solutions",
+      "id": "9780957921849",
+      "price": "3.98",
+      "image": "https://itbook.store/img/books/9780957921849.png",
+      "url": "https://itbook.store/books/9780957921849"
+    },
+    {
+      "title": "The PHP Anthology, Volume 1",
+      "subtitle": "Object Oriented PHP Solutions",
+      "id": "9780957921856",
+      "price": "3.01",
+      "image": "https://itbook.store/img/books/9780957921856.png",
+      "url": "https://itbook.store/books/9780957921856"
+    },
+    {
+      "title": "Pro PHP Application Performance",
+      "subtitle": "Tuning PHP Web Projects for Maximum Performance",
+      "id": "9781430228981",
+      "price": "32.94",
+      "image": "https://itbook.store/img/books/9781430228981.png",
+      "url": "https://itbook.store/books/9781430228981"
+    },
+    {
+      "title": "Node.js for PHP Developers",
+      "subtitle": "Porting PHP to Node.js",
+      "id": "9781449333607",
+      "price": "20.36",
+      "image": "https://itbook.store/img/books/9781449333607.png",
+      "url": "https://itbook.store/books/9781449333607"
+    },
+    {
+      "title": "PHP Cookbook, 3rd Edition",
+      "subtitle": "Solutions & Examples for PHP Programmers",
+      "id": "9781449363758",
+      "price": "35.52",
+      "image": "https://itbook.store/img/books/9781449363758.png",
+      "url": "https://itbook.store/books/9781449363758"
+    },
+    {
+      "title": "Pro PHP and jQuery, 2nd Edition",
+      "subtitle": "Take your dynamic PHP 7 apps to the next level by adding a JavaScript layer using jQuery",
+      "id": "9781484212318",
+      "price": "41.09",
+      "image": "https://itbook.store/img/books/9781484212318.png",
+      "url": "https://itbook.store/books/9781484212318"
+    },
+    {
+      "title": "PHP CLI",
+      "subtitle": "Create Command Line Interface Scripts with PHP",
+      "id": "9781484222379",
+      "price": "22.99",
+      "image": "https://itbook.store/img/books/9781484222379.png",
+      "url": "https://itbook.store/books/9781484222379"
+    },
+    {
+      "title": "Micro Frontends in Action",
+      "subtitle": "",
+      "id": "9781617296871",
+      "price": "39.99",
+      "image": "https://itbook.store/img/books/9781617296871.png",
+      "url": "https://itbook.store/books/9781617296871"
+    },
+    {
+      "title": "Mastering Magento Theme Design",
+      "subtitle": "Create responsive Magento themes using Bootstrap, the most widely used frontend framework",
+      "id": "9781783288236",
+      "price": "32.99",
+      "image": "https://itbook.store/img/books/9781783288236.png",
+      "url": "https://itbook.store/books/9781783288236"
+    },
+    {
+      "title": "Hands-On Full-Stack Web Development with ASP.NET Core",
+      "subtitle": "Learn end-to-end web development with leading frontend frameworks, such as Angular, React, and Vue",
+      "id": "9781788622882",
+      "price": "44.99",
+      "image": "https://itbook.store/img/books/9781788622882.png",
+      "url": "https://itbook.store/books/9781788622882"
+    },
+    {
+      "title": "Developing Backbone.js Applications",
+      "subtitle": "Building Better JavaScript Applications",
+      "id": "9781449328252",
+      "price": "19.99",
+      "image": "https://itbook.store/img/books/9781449328252.png",
+      "url": "https://itbook.store/books/9781449328252"
+    },
+    {
+      "title": "Opa: Up and Running",
+      "subtitle": "Rapid and Secure Web Development",
+      "id": "9781449328856",
+      "price": "18.99",
+      "image": "https://itbook.store/img/books/9781449328856.png",
+      "url": "https://itbook.store/books/9781449328856"
+    },
+    {
+      "title": "Software Development From A to Z",
+      "subtitle": "A Deep Dive into all the Roles Involved in the Creation of Software",
+      "id": "9781484239445",
+      "price": "31.32",
+      "image": "https://itbook.store/img/books/9781484239445.png",
+      "url": "https://itbook.store/books/9781484239445"
+    },
+    {
+      "title": "JavaScript Frameworks for Modern Web Development",
+      "subtitle": "The Essential Frameworks, Libraries, and Tools to Learn Right Now",
+      "id": "9781484249949",
+      "price": "36.09",
+      "image": "https://itbook.store/img/books/9781484249949.png",
+      "url": "https://itbook.store/books/9781484249949"
+    },
+    {
+      "title": "Practical Rust Web Projects",
+      "subtitle": "Building Cloud and Web-Based Applications",
+      "id": "9781484265888",
+      "price": "28.75",
+      "image": "https://itbook.store/img/books/9781484265888.png",
+      "url": "https://itbook.store/books/9781484265888"
+    },
+    {
+      "title": "Using WebPagetest",
+      "subtitle": "Web Performance Testing for Novices and Power Users",
+      "id": "9781491902592",
+      "price": "25.80",
+      "image": "https://itbook.store/img/books/9781491902592.png",
+      "url": "https://itbook.store/books/9781491902592"
+    },
+    {
+      "title": "Application Development with Parse using iOS SDK",
+      "subtitle": "Develop the backend of your applications instantly using Parse iOS SDK",
+      "id": "9781783550333",
+      "price": "14.99",
+      "image": "https://itbook.store/img/books/9781783550333.png",
+      "url": "https://itbook.store/books/9781783550333"
+    },
+    {
+      "title": "Hands-On Full Stack Web Development with Angular 6 and Laravel 5",
+      "subtitle": "Become fluent in both frontend and backend web development with Docker, Angular and Laravel",
+      "id": "9781788833912",
+      "price": "37.37",
+      "image": "https://itbook.store/img/books/9781788833912.png",
+      "url": "https://itbook.store/books/9781788833912"
+    },
+    {
+      "title": "Advanced Backend Optimization",
+      "subtitle": "",
+      "id": "9781848215382",
+      "price": "120.40",
+      "image": "https://itbook.store/img/books/9781848215382.png",
+      "url": "https://itbook.store/books/9781848215382"
+    },
+    {
+      "title": "Complete Web Monitoring",
+      "subtitle": "Watching your visitors, performance, communities, and competitors",
+      "id": "9780596155131",
+      "price": "32.21",
+      "image": "https://itbook.store/img/books/9780596155131.png",
+      "url": "https://itbook.store/books/9780596155131"
+    },
+    {
+      "title": "Jump Start PHP",
+      "subtitle": "Get up to speed with PHP in a weekend",
+      "id": "9780987467409",
+      "price": "14.53",
+      "image": "https://itbook.store/img/books/9780987467409.png",
+      "url": "https://itbook.store/books/9780987467409"
+    },
+    {
+      "title": "Functional Design Patterns for Express.js",
+      "subtitle": "",
+      "id": "9781074005306",
+      "price": "37.99",
+      "image": "https://itbook.store/img/books/9781074005306.png",
+      "url": "https://itbook.store/books/9781074005306"
+    },
+    {
+      "title": "Windows Azure Mobile Services",
+      "subtitle": "",
+      "id": "9781118678534",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/9781118678534.png",
+      "url": "https://itbook.store/books/9781118678534"
+    },
+    {
+      "title": "Expert Android",
+      "subtitle": "Custom components to mobile clouds: an advanced guide for impactful mobile applications",
+      "id": "9781430249504",
+      "price": "22.61",
+      "image": "https://itbook.store/img/books/9781430249504.png",
+      "url": "https://itbook.store/books/9781430249504"
+    },
+    {
+      "title": "Pro SQL Server Internals",
+      "subtitle": "",
+      "id": "9781430259626",
+      "price": "49.00",
+      "image": "https://itbook.store/img/books/9781430259626.png",
+      "url": "https://itbook.store/books/9781430259626"
+    },
+    {
+      "title": "HTML5 and JavaScript Web Apps",
+      "subtitle": "Building Apps for the Open Web",
+      "id": "9781449320515",
+      "price": "3.88",
+      "image": "https://itbook.store/img/books/9781449320515.png",
+      "url": "https://itbook.store/books/9781449320515"
+    },
+    {
+      "title": "Migrating to Azure",
+      "subtitle": "Transforming Legacy Applications into Scalable Cloud-First Solutions",
+      "id": "9781484235843",
+      "price": "33.21",
+      "image": "https://itbook.store/img/books/9781484235843.png",
+      "url": "https://itbook.store/books/9781484235843"
+    },
+    {
+      "title": "Visual Design of GraphQL Data",
+      "subtitle": "A Practical Introduction with Legacy Data and Neo4j",
+      "id": "9781484239032",
+      "price": "24.01",
+      "image": "https://itbook.store/img/books/9781484239032.png",
+      "url": "https://itbook.store/books/9781484239032"
+    },
+    {
+      "title": "Refactoring Legacy T-SQL for Improved Performance",
+      "subtitle": "Modern Practices for SQL Server Applications",
+      "id": "9781484255803",
+      "price": "23.99",
+      "image": "https://itbook.store/img/books/9781484255803.png",
+      "url": "https://itbook.store/books/9781484255803"
+    },
+    {
+      "title": "Learning HTML5 Game Programming",
+      "subtitle": "A Hands-on Guide to Building Online Games Using Canvas, SVG, and WebGL",
+      "id": "9780321767363",
+      "price": "13.69",
+      "image": "https://itbook.store/img/books/9780321767363.png",
+      "url": "https://itbook.store/books/9780321767363"
+    },
+    {
+      "title": "SOA in Practice",
+      "subtitle": "The Art of Distributed System Design",
+      "id": "9780596529550",
+      "price": "31.87",
+      "image": "https://itbook.store/img/books/9780596529550.png",
+      "url": "https://itbook.store/books/9780596529550"
+    },
+    {
+      "title": "Microsoft ASP.NET and AJAX",
+      "subtitle": "Architecting Web Applications",
+      "id": "9780735626218",
+      "price": "17.37",
+      "image": "https://itbook.store/img/books/9780735626218.png",
+      "url": "https://itbook.store/books/9780735626218"
+    },
+    {
+      "title": "Groovy Recipes",
+      "subtitle": "Greasing the Wheels of Java",
+      "id": "9780978739294",
+      "price": "3.74",
+      "image": "https://itbook.store/img/books/9780978739294.png",
+      "url": "https://itbook.store/books/9780978739294"
+    },
+    {
+      "title": "Professional Access 2013 Programming",
+      "subtitle": "",
+      "id": "9781118530832",
+      "price": "7.20",
+      "image": "https://itbook.store/img/books/9781118530832.png",
+      "url": "https://itbook.store/books/9781118530832"
+    },
+    {
+      "title": "The Definitive Guide to Grails 2",
+      "subtitle": "",
+      "id": "9781430243779",
+      "price": "35.95",
+      "image": "https://itbook.store/img/books/9781430243779.png",
+      "url": "https://itbook.store/books/9781430243779"
+    },
+    {
+      "title": "Beginning COBOL for Programmers",
+      "subtitle": "",
+      "id": "9781430262534",
+      "price": "54.20",
+      "image": "https://itbook.store/img/books/9781430262534.png",
+      "url": "https://itbook.store/books/9781430262534"
+    },
+    {
+      "title": "Next Generation Databases: NoSQL, NewSQL, and Big Data",
+      "subtitle": "What every professional needs to know about the future of databases in a world of NoSQL and Big Data",
+      "id": "9781484213308",
+      "price": "30.80",
+      "image": "https://itbook.store/img/books/9781484213308.png",
+      "url": "https://itbook.store/books/9781484213308"
+    },
+    {
+      "title": "Getting Started with NoSQL",
+      "subtitle": "Your guide to the world and technology of NoSQL",
+      "id": "9781849694988",
+      "price": "14.99",
+      "image": "https://itbook.store/img/books/9781849694988.png",
+      "url": "https://itbook.store/books/9781849694988"
+    },
+    {
+      "title": "Professional NoSQL",
+      "subtitle": "",
+      "id": "9780470942246",
+      "price": "10.98",
+      "image": "https://itbook.store/img/books/9780470942246.png",
+      "url": "https://itbook.store/books/9780470942246"
+    },
+    {
+      "title": "NoSQL For Dummies",
+      "subtitle": "",
+      "id": "9781118905746",
+      "price": "23.03",
+      "image": "https://itbook.store/img/books/9781118905746.png",
+      "url": "https://itbook.store/books/9781118905746"
+    },
+    {
+      "title": "The Definitive Guide to MongoDB",
+      "subtitle": "The NoSQL Database for Cloud and Desktop Computing",
+      "id": "9781430230519",
+      "price": "39.99",
+      "image": "https://itbook.store/img/books/9781430230519.png",
+      "url": "https://itbook.store/books/9781430230519"
+    },
+    {
+      "title": "eXist",
+      "subtitle": "A NoSQL Document Database and Application Platform",
+      "id": "9781449337100",
+      "price": "37.99",
+      "image": "https://itbook.store/img/books/9781449337100.png",
+      "url": "https://itbook.store/books/9781449337100"
+    },
+    {
+      "title": "MongoDB Applied Design Patterns",
+      "subtitle": "Practical Use Cases with the Leading NoSQL Database",
+      "id": "9781449340049",
+      "price": "29.99",
+      "image": "https://itbook.store/img/books/9781449340049.png",
+      "url": "https://itbook.store/books/9781449340049"
+    },
+    {
+      "title": "Practical Hadoop Migration",
+      "subtitle": "How to Integrate Your RDBMS with the Hadoop Ecosystem and Re-Architect Relational Applications to NoSQL",
+      "id": "9781484212882",
+      "price": "44.99",
+      "image": "https://itbook.store/img/books/9781484212882.png",
+      "url": "https://itbook.store/books/9781484212882"
+    },
+    {
+      "title": "Pro Couchbase Development",
+      "subtitle": "A NoSQL Platform for the Enterprise",
+      "id": "9781484214350",
+      "price": "38.06",
+      "image": "https://itbook.store/img/books/9781484214350.png",
+      "url": "https://itbook.store/books/9781484214350"
+    },
+    {
+      "title": "MySQL Connector/Python Revealed",
+      "subtitle": "SQL and NoSQL Data Storage Using MySQL for Python Programmers",
+      "id": "9781484236932",
+      "price": "24.27",
+      "image": "https://itbook.store/img/books/9781484236932.png",
+      "url": "https://itbook.store/books/9781484236932"
+    },
+    {
+      "title": "Introduction to Data Science",
+      "subtitle": "Data Analysis and Prediction Algorithms with R",
+      "id": "1001605784278",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001605784278.png",
+      "url": "https://itbook.store/books/1001605784278"
+    },
+    {
+      "title": "Programming Skills for Data Science",
+      "subtitle": "Start Writing Code to Wrangle, Analyze, and Visualize Data with R",
+      "id": "9780135133101",
+      "price": "40.99",
+      "image": "https://itbook.store/img/books/9780135133101.png",
+      "url": "https://itbook.store/books/9780135133101"
+    },
+    {
+      "title": "Learning iCloud Data Management",
+      "subtitle": "A Hands-On Guide to Structuring Data for iOS and OS X",
+      "id": "9780321889119",
+      "price": "24.07",
+      "image": "https://itbook.store/img/books/9780321889119.png",
+      "url": "https://itbook.store/books/9780321889119"
+    },
+    {
+      "title": "Learning Core Data for iOS",
+      "subtitle": "A Hands-On Guide to Building Core Data Applications",
+      "id": "9780321905765",
+      "price": "3.72",
+      "image": "https://itbook.store/img/books/9780321905765.png",
+      "url": "https://itbook.store/books/9780321905765"
+    },
+    {
+      "title": "Beautiful Data",
+      "subtitle": "The Stories Behind Elegant Data Solutions",
+      "id": "9780596157111",
+      "price": "18.99",
+      "image": "https://itbook.store/img/books/9780596157111.png",
+      "url": "https://itbook.store/books/9780596157111"
+    },
+    {
+      "title": "Visualizing Data",
+      "subtitle": "Exploring and Explaining Data with the Processing Environment",
+      "id": "9780596514556",
+      "price": "19.98",
+      "image": "https://itbook.store/img/books/9780596514556.png",
+      "url": "https://itbook.store/books/9780596514556"
+    },
+    {
+      "title": "Data Analysis with Open Source Tools",
+      "subtitle": "A hands-on guide for programmers and data scientists",
+      "id": "9780596802356",
+      "price": "3.20",
+      "image": "https://itbook.store/img/books/9780596802356.png",
+      "url": "https://itbook.store/books/9780596802356"
+    },
+    {
+      "title": "Competing with High Quality Data",
+      "subtitle": "Concepts, Tools, and Techniques for Building a Successful Approach to Data Quality",
+      "id": "9781118342329",
+      "price": "66.68",
+      "image": "https://itbook.store/img/books/9781118342329.png",
+      "url": "https://itbook.store/books/9781118342329"
+    },
+    {
+      "title": "Making Sense of Data I, 2nd Edition",
+      "subtitle": "A Practical Guide to Exploratory Data Analysis and Data Mining",
+      "id": "9781118407417",
+      "price": "16.75",
+      "image": "https://itbook.store/img/books/9781118407417.png",
+      "url": "https://itbook.store/books/9781118407417"
+    },
+    {
+      "title": "Reintroducing React",
+      "subtitle": "Modern React with Every React Update Since v16 Demystified (includes advanced hooks)",
+      "id": "1001592396277",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/1001592396277.png",
+      "url": "https://itbook.store/books/1001592396277"
+    },
+    {
+      "title": "Learning React, 2nd Edition",
+      "subtitle": "A Hands-On Guide to Building Web Applications Using React and Redux",
+      "id": "9780134843551",
+      "price": "21.63",
+      "image": "https://itbook.store/img/books/9780134843551.png",
+      "url": "https://itbook.store/books/9780134843551"
+    },
+    {
+      "title": "Pro React",
+      "subtitle": "Build complex front-end applications in a composable way with React",
+      "id": "9781484212615",
+      "price": "13.77",
+      "image": "https://itbook.store/img/books/9781484212615.png",
+      "url": "https://itbook.store/books/9781484212615"
+    },
+    {
+      "title": "React Native for iOS Development",
+      "subtitle": "Harness the power of React and JavaScript to build stunning iOS applications",
+      "id": "9781484213964",
+      "price": "33.26",
+      "image": "https://itbook.store/img/books/9781484213964.png",
+      "url": "https://itbook.store/books/9781484213964"
+    },
+    {
+      "title": "Front-End Reactive Architectures",
+      "subtitle": "Explore the Future of the Front-End using Reactive JavaScript Frameworks and Libraries",
+      "id": "9781484231791",
+      "price": "26.32",
+      "image": "https://itbook.store/img/books/9781484231791.png",
+      "url": "https://itbook.store/books/9781484231791"
+    },
+    {
+      "title": "Practical React Native",
+      "subtitle": "Build Two Full Projects and One Full Game using React Native",
+      "id": "9781484239384",
+      "price": "26.09",
+      "image": "https://itbook.store/img/books/9781484239384.png",
+      "url": "https://itbook.store/books/9781484239384"
+    },
+    {
+      "title": "Reactive Streams in Java",
+      "subtitle": "Concurrency with RxJava, Reactor, and Akka Streams",
+      "id": "9781484241752",
+      "price": "26.03",
+      "image": "https://itbook.store/img/books/9781484241752.png",
+      "url": "https://itbook.store/books/9781484241752"
+    },
+    {
+      "title": "Building React Apps with Server-Side Rendering",
+      "subtitle": "Use React, Redux, and Next to Build Full Server-Side Rendering Applications",
+      "id": "9781484258682",
+      "price": "27.75",
+      "image": "https://itbook.store/img/books/9781484258682.png",
+      "url": "https://itbook.store/books/9781484258682"
+    },
+    {
+      "title": "React and Libraries",
+      "subtitle": "Your Complete Guide to the React Ecosystem",
+      "id": "9781484266953",
+      "price": "30.24",
+      "image": "https://itbook.store/img/books/9781484266953.png",
+      "url": "https://itbook.store/books/9781484266953"
+    },
+    {
+      "title": "Learning React",
+      "subtitle": "Functional Web Development with React and Redux",
+      "id": "9781491954621",
+      "price": "19.95",
+      "image": "https://itbook.store/img/books/9781491954621.png",
+      "url": "https://itbook.store/books/9781491954621"
+    },
+    {
+      "title": "Effective JavaScript",
+      "subtitle": "68 Specific Ways to Harness the Power of JavaScript",
+      "id": "9780321812186",
+      "price": "21.99",
+      "image": "https://itbook.store/img/books/9780321812186.png",
+      "url": "https://itbook.store/books/9780321812186"
+    },
+    {
+      "title": "Learning JavaScript",
+      "subtitle": "A Hands-On Guide to the Fundamentals of Modern JavaScript",
+      "id": "9780321832740",
+      "price": "8.99",
+      "image": "https://itbook.store/img/books/9780321832740.png",
+      "url": "https://itbook.store/books/9780321832740"
+    },
+    {
+      "title": "JavaScript: The Good Parts",
+      "subtitle": "Unearthing the Excellence in JavaScript",
+      "id": "9780596517748",
+      "price": "15.99",
+      "image": "https://itbook.store/img/books/9780596517748.png",
+      "url": "https://itbook.store/books/9780596517748"
+    },
+    {
+      "title": "Head First JavaScript",
+      "subtitle": "A Learner's Companion to JavaScript",
+      "id": "9780596527747",
+      "price": "7.72",
+      "image": "https://itbook.store/img/books/9780596527747.png",
+      "url": "https://itbook.store/books/9780596527747"
+    },
+    {
+      "title": "JavaScript Creativity",
+      "subtitle": "Exploring the Modern Capabilities of JavaScript and HTML5",
+      "id": "9781430259442",
+      "price": "30.64",
+      "image": "https://itbook.store/img/books/9781430259442.png",
+      "url": "https://itbook.store/books/9781430259442"
+    },
+    {
+      "title": "JavaScript for PHP Developers",
+      "subtitle": "A Concise Guide to Mastering JavaScript",
+      "id": "9781449320195",
+      "price": "10.50",
+      "image": "https://itbook.store/img/books/9781449320195.png",
+      "url": "https://itbook.store/books/9781449320195"
+    },
+    {
+      "title": "Learning JavaScript Design Patterns",
+      "subtitle": "A JavaScript and jQuery Developer's Guide",
+      "id": "9781449331818",
+      "price": "23.49",
+      "image": "https://itbook.store/img/books/9781449331818.png",
+      "url": "https://itbook.store/books/9781449331818"
+    },
+    {
+      "title": "The Problem with Native JavaScript APIs",
+      "subtitle": "Why reliance on native JavaScript APIs leads to disadvantages",
+      "id": "9781449339951",
+      "price": "0.00",
+      "image": "https://itbook.store/img/books/9781449339951.png",
+      "url": "https://itbook.store/books/9781449339951"
+    },
+    {
+      "title": "JavaScript Enlightenment",
+      "subtitle": "From Library User to JavaScript Developer",
+      "id": "9781449342883",
+      "price": "9.93",
+      "image": "https://itbook.store/img/books/9781449342883.png",
+      "url": "https://itbook.store/books/9781449342883"
+    },
+    {
+      "title": "JavaScript Testing with Jasmine",
+      "subtitle": "JavaScript Behavior-Driven Development",
+      "id": "9781449356378",
+      "price": "9.22",
+      "image": "https://itbook.store/img/books/9781449356378.png",
+      "url": "https://itbook.store/books/9781449356378"
+    }
+  ],
+  "users": [
+    {
+      "admin": "true",
+      "name": "Marina Lukovac",
+      "username": "marinaLukovac",
+      "email": "belgradepharmacist@gmail.com",
+      "password": "123456Aa",
+      "id": "836901d0-2c22-11ec-9ea4-59e6f0ac3ed9"
+    },
+    {
+      "name": "Marc",
+      "username": "marc",
+      "email": "marc@marc.io",
+      "password": "123456Aa",
+      "id": "836901d0-2c22-11ec-9ea4-59e6f0ac3ed9",
+      "shoppingCart": "[]"
+    },
+    {
+      "name": "Pero",
+      "username": "pero",
+      "email": "pero@pero.io",
+      "password": "123456Aa",
+      "id": "836901d0-2c22-11ec-9ea4-1",
+      "shoppingCart": "[]"
+    },
+    {
+      "name": "veks",
+      "username": "veks",
+      "password": "123456Aa",
+      "id": "20b94a80-2dfe-11ec-9846-d9b15ac41fd5",
+      "shoppingCart": []
+    }
+  ]
+}
